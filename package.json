@@ -1,0 +1,21 @@
+{
+  "name": "socketgame",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "main": "src/index.js",
+  "scripts": {
+    "dev" : "nodemon src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.1"
+  }
+}
