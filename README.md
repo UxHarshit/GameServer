@@ -29,6 +29,8 @@ You will be needing api tools like postman to communicate with the server.
 - [x] Chat filtering
 - [x] System messages
 - [x] Ban users / Kick users
+- [x] User joined / User left
+- [ ] In chat commands
 - [ ] Game
 - [ ] User authentication
 
