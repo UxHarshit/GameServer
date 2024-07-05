@@ -7,9 +7,9 @@ Just now this is a simple chat room, but I am planning to add more features to i
 
 ## Images
 - User 1 joins the room and creates a room
-![User 1 joins the room and creates a room](images/1.png)
+- ![User 1 joins the room and creates a room](images/1.png)
 - User 2 joins the room
-![User 2 joins the room](images/2.png)
+- ![User 2 joins the room](images/2.png)
 ---
 - Above images show chat between two users with system messages live events updates like user joined, user left etc.
 
